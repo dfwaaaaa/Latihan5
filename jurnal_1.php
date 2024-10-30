@@ -1,8 +1,4 @@
 <?php
-echo"[1] Rata-rata \n";
-echo"[2] Penjumlahan \n";
-echo"[3] Rata-rata & Penjumlahan \n";
-echo"[Lainnya] Keluar \n";
 
 $pilihan = (int)readline("Masukkan pilihan disini: ");
 $total = 0.0; 
